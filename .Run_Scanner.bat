@@ -1,0 +1,1 @@
+python "C:\Scripts\Summarizer.py" --dir "%CD%"
