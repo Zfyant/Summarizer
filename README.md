@@ -1,10 +1,10 @@
-# 🔍 File Summarizer [WIP]
+# 🔍 Directory Summarizer [WIP]
 
 > **View `ARCHITECTURE_[date]_[time].md` for a Preview.** 🔼
 >
 > Pair With 🔗 **[Line Counter](https://github.com/Zfyant/Line_Counter)** to get a fast and detailed summary of your codebase. [Work in Progress]
 
-File Summarizer is a powerful Python-only, customizable, open-source tool that scans a project directory, generates a detailed file tree, and provides in-depth analysis of the content of various file types. 
+Directory Summarizer is a powerful Python-only, customizable, open-source tool that scans a project directory, generates a detailed file tree, and provides in-depth analysis of the content of various file types. 
 
 ## ✨ Features
 
