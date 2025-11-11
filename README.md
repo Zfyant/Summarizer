@@ -1,6 +1,6 @@
 # 🔍 Directory Summarizer [WIP]
 
-> **View `ARCHITECTURE_[date]_[time].md` for a Preview.** 🔼
+> **View `ARCHITECTURE_[date]_[time].md` for a [Preview](https://github.com/Zfyant/Summarizer/blob/main/ARCHITECTURE-20250809-215351.md).** 🔼
 >
 > Pair With 🔗 **[Line Counter](https://github.com/Zfyant/Line_Counter)** to get a fast and detailed summary of your codebase. [Work in Progress]
 
